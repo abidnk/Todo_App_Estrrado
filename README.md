@@ -21,11 +21,11 @@ A simple Todo application built with React and Vite, utilizing Redux for state m
   (https://github.com/abidnk/Todo_App_Estrrado.git)
 
 2. Install dependencies:
-     cd todo-app
-     npm install
+     - cd todo-app
+     - npm install
 
 3. Run the app:
-     npm run dev
+     - npm run dev
 
 
      
