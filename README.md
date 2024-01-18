@@ -1,6 +1,6 @@
 # React + Vite
 
-# Todo App with React and Vite
+# Todo App with React and Redux
 
 A simple Todo application built with React and Vite, utilizing Redux for state management. This app allows users to add, remove, edit, and mark todos as completed.
 
